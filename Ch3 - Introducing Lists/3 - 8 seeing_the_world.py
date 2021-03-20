@@ -3,10 +3,10 @@
 #storing places in a list
 
 places_to_visit = ['south island, new zealand', 
-					'new york city', 
-					'rio de janeiro',
-					'niagara falls',
-					]
+                   'new york city', 
+                   'rio de janeiro',
+                   'niagara falls',
+                   ]
 
 print("1-printing the list as it doesn't to be so neatly now!: \n")
 
