@@ -7,12 +7,12 @@ i'll create another list
 '''
 
 modes_of_transport = ['railways', 'roadways', 
-						'airways', 'waterways', 
-						'pipelines',
-						]
+	              'airways', 'waterways', 
+		      'pipelines',
+		       ]
 						
 print("Mainly there are " + 
-		str(len(modes_of_transport)) + 
-		" types of transportation"
-		)
+       str(len(modes_of_transport)) + 
+       " types of transportation"
+	 )
 
